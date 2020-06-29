@@ -66,3 +66,10 @@ print(int(False))   # 0
 print(True > False)     # True
 print(bool(-2))     # True
 print(bool(0))  # False
+
+
+# more eg.
+a = 2
+b = a
+print('a', a)
+print('b', b)
